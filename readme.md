@@ -1,4 +1,5 @@
 Pedestrian Stomper game
+By Benjamin and Jacky
 
 The goal of the game is to destroy as many pedestrians as possible with your car.
 
